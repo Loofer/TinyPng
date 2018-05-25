@@ -2,10 +2,6 @@
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![version](https://img.shields.io/badge/version-1.0.1-brightgreen.svg)
 
-### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
-
-![](http://ww4.sinaimg.cn/large/005Xtdi2gw1f4kksnoy72j313y07yjuk.jpg)
-
 ## 前言
 我们在写文章或者建网站时，经常需要对图片压缩处理，以便帮助用户节省流量和提升网站加载速度。
 
@@ -122,16 +118,10 @@ chmod +x tinypng.py
 * v1.0.0 支持压缩当前目录下文件
 * v1.0.1 添加参数支持，支持压缩单个文件，压缩指定目录所有图片文件(不包含子目录)，默认压缩当前目录的所有图片文件(不包括子目录)
 
-## About Me
-
-### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
-
-<a href="https://github.com/GcsSloop/README/blob/master/README.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
-
 
 ## License
 ```
-Copyright (c) 2015 GcsSloop
+Copyright (c) 2018 Loofer
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
