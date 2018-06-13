@@ -7,7 +7,7 @@ import os.path
 import click
 import tinify
 
-tinify.key = "you api key"		# API KEY
+tinify.key = "wMlheTVUKq5BchXSvwGy2ajJUUaMBDm2"		# API KEY
 version = "1.0.1"				# 版本
 
 # 压缩的核心
